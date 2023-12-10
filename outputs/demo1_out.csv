@@ -1,0 +1,4 @@
+cardNumber,cardType
+5067894523129089,Invalid: not a possible card number
+59012345678901234567890,Invalid: more than 19 digits
+4123456789123515,Visa

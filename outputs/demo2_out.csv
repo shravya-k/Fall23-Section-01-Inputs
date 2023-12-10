@@ -1,0 +1,4 @@
+cardNumber,cardType
+377856341908126,AmericanExpress
+6011111100007756,Discover
+3601112345678789,Invalid: not a possible card number
